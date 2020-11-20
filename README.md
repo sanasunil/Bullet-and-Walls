@@ -1,2 +1,2 @@
-# Bullet-and-Walls
-test the reliability of the walls when bullets hit them.
+# p5.play-boilerplate
+Boiler plate for p5.play
